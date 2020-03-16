@@ -1,0 +1,4 @@
+Questions:
+
+1. print number of days in a month using switch...case, given the month number
+2. create a simple calculator using switch...case
